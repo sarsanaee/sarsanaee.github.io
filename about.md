@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently a graduate student at QMUL EECS advised by [Gianni Antichi](https://gianniantichi.github.io/)
+. I'm also working with [Brent Stephens](https://www.cs.uic.edu/~brents/)
+ at UIC. My interests centers around computer systems, mainly operating systems and networks.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Before joining QMUL, I was a research assistant at SingArch lab of NUS SoC working with [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/)
+Djordje Jevdjic. I completed my bachelor's and master's degrees at IUST advised by [Mohsen Sharifi](http://webpages.iust.ac.ir/msharifi/).
