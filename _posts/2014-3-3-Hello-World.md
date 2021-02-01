@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Alireza? Who?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello everyone, I'm Alireza Sanaee. I'm mostly interested in networked systems. I'm slowly becoming an eBFP enthusiast and learning about it. I'll be posting about eBPF soon. I love doing things in simplistic ways, I actually despise convoluted stuff. I like kernel hacking, competitive programming, and RUNNING.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I love minimalism, and practice it.
