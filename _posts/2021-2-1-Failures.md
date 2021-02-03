@@ -7,7 +7,7 @@ Here is my failures since 2018!
 
 #### Ph.D. program rejections
 
-UW, UCSD, Ethz, EPFL, UC(UK)
+UW, UCSD, ETHZ, EPFL, UC(UK)
 
 #### Paper rejections
 
