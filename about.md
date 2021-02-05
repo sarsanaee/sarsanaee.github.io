@@ -12,6 +12,6 @@ Before joining QMUL, I was a research assistant at SingArch lab of NUS SoC worki
 
 
 ### Teaching
-Distributed systesm (TA)
+Distributed systesm (TA) \\
 Big data analytics (TA)
 
