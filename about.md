@@ -11,6 +11,6 @@ I'm currently a graduate student at QMUL EECS advised by [Gianni Antichi](https:
 Before joining QMUL, I was a research assistant at SingArch lab of NUS SoC working with [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/). I completed my bachelor's and master's degrees at IUST advised by [Mohsen Sharifi](http://webpages.iust.ac.ir/msharifi/).
 
 ### Teaching
-Distributed systesm (TA)  
-Big data analytics (TA)
+Distributed systesm - Spring'21 (TA)  
+Big data analytics - Fall'20 (TA)
 
