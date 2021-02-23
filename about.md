@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I'm currently a graduate student at QMUL EECS advised by [Gianni Antichi](https://gianniantichi.github.io/)
