@@ -9,7 +9,7 @@ Here is my failures since 2018!
 
 UW, UCSD, ETHZ, EPFL, UC(UK)
 
-#### Ph.D. student fellowship 
+#### Ph.D. student fellowship rejections
 
 NEC'21
 
