@@ -4,19 +4,20 @@ title: Google's software/hardware data plane at the end-hosts
 ---
 
 
-![whole system in my view](/images/posts/figure1.png)
 
-This figure is just my imagination about google software/hardware date plane at
+This Figure 1 is just my imagination about google software/hardware date plane at
 the end-hosts.
 
 Snap [SOSP'19] is basically the vswitch that forwards the packet to/from the
-applications and NIC. Every single component should eventually integrate into Snap.
-Snap does multiple jobs, including packet processing, congestion control,
-flow control, connection management, thread scheduling (close to
-Shenango[NSDI'19]).
+applications and NIC. Every single component should eventually integrate into
+Snap.  Snap does multiple jobs, including packet processing, congestion
+control, flow control, connection management, thread scheduling (close to
+Shenango [NSDI'19]).
+
+![Figure 1](/images/posts/figure1.png)
 
 The prior system of Snap, I believe to be andromeda [NSDI'18]. Andromeda has
-severe problems particularly related to head-of-line~(HOL) at the virtual NIC.
+severe problems particularly related to head-of-line (HOL) at the virtual NIC.
 They solve HOL blocking problem by building a predictable virtual NIC (PicNIC
 [Sigcomm'19]).
 
