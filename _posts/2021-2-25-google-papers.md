@@ -5,8 +5,8 @@ title: Google's software/hardware data plane at the end-hosts
 
 
 
-This Figure 1 is just my imagination about google software/hardware date plane at
-the end-hosts.
+Figure 1 is just my imagination about the evolution of google software/hardware
+date plane at the end-hosts.
 
 Snap [SOSP'19] is basically the vswitch that forwards the packet to/from the
 applications and NIC. Every single component should eventually integrate into
