@@ -10,6 +10,8 @@ I'm currently a graduate student at QMUL EECS advised by [Gianni Antichi](https:
 
 Before joining QMUL, I was a research assistant at SingArch lab of NUS SoC working with [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/). I completed my bachelor's and master's degrees at IUST advised by [Mohsen Sharifi](http://webpages.iust.ac.ir/msharifi/).
 
+I also spend a couple of months at [EPFL LCA2](https://www.epfl.ch/labs/lca2/) in 2017. I worked on studying the availability of Electrical Grid Controllers via Xen hypervisor.
+
 ### Teaching
 Distributed systems - Spring'21 (TA)  
 Big data analytics - Fall'20 (TA)
