@@ -18,7 +18,7 @@ Miano</a>) "<a href="">Domain Specific Run Time Optimization for Software Data P
 has been accepted to <a href="https://asplos-conference.org/">ASPLOS'22</a>!
 
 ### Teaching
-Distributed systems - Spring'22 (TA)
+Distributed systems - Spring'22 (TA)  
 Distributed systems - Spring'21 (TA)  
 Big data analytics - Fall'20 (TA)
 
