@@ -14,7 +14,7 @@ I also spend a couple of months at [EPFL LCA2](https://www.epfl.ch/labs/lca2/) i
 
 ### News
 10-11-2021 - <a href="">Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem</a> has been accepted to NSDI'22!  
-09-11-2021 - Best poster award for <ahref="https://conferences2.sigcomm.org/co-next/2021/#!/program-poster">The 
+09-11-2021 - Best poster award for <a href="https://conferences2.sigcomm.org/co-next/2021/#!/program-poster">The 
 Case for Network Functions Decomposition</a> at CoNEXT'21 led by <a href=https://fshahinfar1.github.io/>Farbod Shahinfar</a>!  
 15-11-2021 - Our work (led by <a href="https://sebymiano.github.io/">Sebastiano
 Miano</a>) "<a href="">Domain Specific Run Time Optimization for Software Data Planes</a>",
