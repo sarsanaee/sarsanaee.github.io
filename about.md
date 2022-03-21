@@ -13,8 +13,6 @@ Before joining QMUL, I was a research assistant at SingArch lab of NUS SoC worki
 I also spend a couple of months at [EPFL LCA2](https://www.epfl.ch/labs/lca2/) in 2017. I studied the availability of Electrical Grid Controllers on Xen hypervisor.
 
 ### News
-13-03-2022 - I won the student travel grant to NSDI'22, thanks USENIX!  
-27-01-2022 - I won the student travel grant to ASPLOS'22, thanks ACM!  
 10-11-2021 - <a href="">Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem</a> has been accepted to NSDI'22!  
 09-11-2021 - Best poster award for <a href="https://conferences2.sigcomm.org/co-next/2021/#!/program-poster">The 
 Case for Network Functions Decomposition</a> at CoNEXT'21 led by <a href="https://fshahinfar1.github.io/">Farbod Shahinfar</a>!  
