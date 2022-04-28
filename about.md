@@ -34,9 +34,9 @@ ACM ASPLOS 22
 
 
 ### Teaching
-Distributed systems - Spring'22 (TA)
-Distributed systems - Spring'21 (TA)
-Big data analytics - Fall'20 (TA)
+Distributed systems - Spring'22 (TA)  
+Distributed systems - Spring'21 (TA)  
+Big data analytics - Fall'20 (TA)  
 
 ### Service
 [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
