@@ -21,17 +21,14 @@ Miano</a>) "<a href="https://morpheus-compiler.github.io/morpheus/">Domain Speci
 has been accepted to <a href="https://asplos-conference.org/">ASPLOS'22</a>!  
 
 ### Recent publications
-**Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem**
-**Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens
+**Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem**  
+**Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens  
 USENIX NSDI 22  
-<a href="https://www.usenix.org/conference/nsdi22/presentation/sanaee">Paper</a> && <a href="https://github.com/Lossless-Virtual-Switching/Backdraft">Code</a>  
 
 
-**Morpheus: Domain Specific Run Time Optimization for Software Data Planes**
-Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi
+**Morpheus: Domain Specific Run Time Optimization for Software Data Planes**  
+Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi  
 ACM ASPLOS 22  
-<a href="https://sebymiano.github.io/publication/2022-morpheus/">Paper && Code</a>  
-
 
 ### Teaching
 Distributed systems - Spring'22 (TA)  
