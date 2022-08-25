@@ -9,13 +9,13 @@ I'm a graduate student at QMUL EECS advised by [Gianni Antichi](https://giannian
  at Utah. My interests centers around computer systems at data centers.
 
 ### Recent publications
-Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem
-**Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens
+Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
+**Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens  
 USENIX NSDI 22
 
 
-Morpheus: Domain Specific Run Time Optimization for Software Data Planes
-Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi
+Morpheus: Domain Specific Run Time Optimization for Software Data Planes  
+Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi  
 ACM ASPLOS 22
 
 ### Teaching
