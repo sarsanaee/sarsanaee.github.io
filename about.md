@@ -19,8 +19,8 @@ Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi
 ACM ASPLOS 22
 
 ### Teaching
-Distributed systems - Spring'22 (TA)
-Distributed systems - Spring'21 (TA)
+Distributed systems - Spring'22 (TA)  
+Distributed systems - Spring'21 (TA)  
 Big data analytics - Fall'20 (TA)
 
 ### Service
