@@ -26,5 +26,5 @@ Big data analytics - Fall'20 (TA)
 ### Service
 [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
 
-#### What am I currently work on?
+#### What am I currently working on?
 The same old problem!
