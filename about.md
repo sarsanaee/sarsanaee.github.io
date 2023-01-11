@@ -28,4 +28,6 @@ Big data analytics - Fall'20 (TA)
 
 #### What am I currently work on?
 The same old problem!  
+
+#### Some thoughts
 If TCP hampers the innovation, we should put it aside!
