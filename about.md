@@ -34,5 +34,5 @@ Mohammad Siavashi, (Received MSc from IUST).
 Old problems never get old!  
 
 #### Some thoughts
-TCP seems to be hampering innovation.  
+TCP seems to be hampering the innovation.  
 The process of conducting research is slow.
