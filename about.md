@@ -31,7 +31,8 @@ Big data analytics - Fall'20 (TA)
 Mohammad Siavashi, (Received MSc from IUST).  
 
 #### What am I currently working on?
-The same old problem!  
+Old problems never get old!  
 
 #### Some thoughts
-If TCP hampers the innovation, we should put it aside!
+TCP seems to be hampering innovation.
+The process of conducting research is slow.
