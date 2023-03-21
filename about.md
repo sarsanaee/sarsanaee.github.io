@@ -29,10 +29,12 @@ Big data analytics - Fall'20 (TA)
 ### Mentees
 [Farbod Shahinfar](https://fshahinfar1.github.io/), (now pursuing PhD at Politecnico di Milano)  
 Mohammad Siavashi, (Received MSc from IUST).  
+Mehran Salmani, (Received MSc from IUST).
 
 #### What am I currently working on?
 Old problems never get old!  
 
 #### Some thoughts
 TCP seems to be hampering the innovation.  
-The process of conducting research is slow.
+The process of conducting research is slow.  
+Pipelined academic collaborations does not sound quite right.
