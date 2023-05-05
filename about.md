@@ -37,6 +37,3 @@ Old problems never get old!
 TCP seems to be hampering the innovation.  
 The process of conducting research is slow.  
 Pipelined academic collaborations does not sound quite right.
-
-#### Links
-[EuroMLSys'23 Talk](https://youtu.be/1SHekZ957Qw)
