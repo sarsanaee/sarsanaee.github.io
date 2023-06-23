@@ -30,8 +30,8 @@ Big data analytics - Fall'20 (TA)
 
 ### Mentees
 [Farbod Shahinfar](https://fshahinfar1.github.io/), (now pursuing PhD at Politecnico di Milano)  
-Mohammad Siavashi, (Received MSc from IUST), Thesis title: Development of a Page Table Aware Scheduler.  
-Mehran Salmani, (Received MSc from IUST, now pursuing PhD at Technische Universität Ilmenau), Thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
+Mohammad Siavashi, (Received MSc from IUST), Master thesis title: Development of a Page Table Aware Scheduler.  
+Mehran Salmani, (Received MSc from IUST, now pursuing PhD at Technische Universität Ilmenau), Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
 #### What am I currently working on?
 Old problems never get old!  
