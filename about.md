@@ -19,8 +19,8 @@ ACM ASPLOS 22, [Paper](https://dl.acm.org/doi/10.1145/3503222.3507769), [Talk](h
 
 ### Other Publications
 Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems  
-Mehran Salmani Saeid Ghafouri **Alireza Sanaee**, Kamran Razavi, Max Mühlhäuser, Joseph Doyle, Pooyan Jamshidi, Mohsen Sharifi  
-MLSys workshop @EuroSys23[Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578) [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o)  
+M. Salmani, S. Ghafouri, **A. Sanaee**, K. Razavi, M. Mühlhäuser, J. Doyle, P. Jamshidi, M. Sharifi  
+MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o)  
 
 
 
