@@ -9,12 +9,12 @@ Antichi](https://gianniantichi.github.io/) . I'm also working with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests centers
 around computer systems at data centers. Before starting PhD, I was a research
 assistant at NUS advised by Djordje Jevdjic working on memory management for
-data center applications. I also spent 3 months working on studying feasibility
-of using virtualization for increasing availability of electrical grid
+data center applications. I also spent 3 months studying feasibility
+of using virtualization to increase availability of electrical grid
 controllers advised by [Jean-Yves Le
 Boudec](https://people.epfl.ch/jean-yves.leboudec).  
 
-I did my undergraduate and masters at IUST in Iran working with [Mohsen
+I did my undergraduate and master's at IUST in Iran, working with [Mohsen
  Sharifi](https://webpages.iust.ac.ir/msharifi/).  
 
 ### Selected Publications
@@ -39,10 +39,10 @@ Big data analytics - Fall'20 (TA)
 [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
 
 ### Mentees
-- [Farbod Shahinfar](https://fshahinfar1.github.io/), (now pursuing PhD at Politecnico di Milano)  
-- Mohammad Siavashi, (Received MSc from IUST, now PhD student [KTH Royal Institute of Technology](https://www.kth.se/)),
+- [Farbod Shahinfar](https://fshahinfar1.github.io/) (now pursuing PhD at Politecnico di Milano)  
+- Mohammad Siavashi (Received MSc from IUST, now PhD student [KTH Royal Institute of Technology](https://www.kth.se/)),
   - Master thesis title: Development of a Page Table Aware Scheduler. [Paper]()  
-- Mehran Salmani, (Received MSc from IUST, now PhD student [Technische Universität Ilmenau](), 
+- Mehran Salmani (Received MSc from IUST, now PhD student [Technische Universität Ilmenau](), 
   - Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
 #### What am I currently working on?
