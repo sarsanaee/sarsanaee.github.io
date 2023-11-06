@@ -30,8 +30,6 @@ ACM ASPLOS 22, [Paper](https://dl.acm.org/doi/10.1145/3503222.3507769), [Talk](h
 Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving Systems  
 M. Salmani, et al.  
 MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o)  
-
-
 ### Mini-Teaching
 Distributed systems - Spring'22 (TA)  
 Distributed systems - Spring'21 (TA)  
@@ -42,10 +40,10 @@ Big data analytics - Fall'20 (TA)
 
 ### Mentees
 - [Farbod Shahinfar](https://fshahinfar1.github.io/), (now pursuing PhD at Politecnico di Milano)  
-- Mohammad Siavashi, (Received MSc from IUST, now PhD student [KTH Royal Institute of Technology](https://www.kth.se/)), 
-  -- Master thesis title: Development of a Page Table Aware Scheduler. [Paper]()  
-- Mehran Salmani, (Received MSc from IUST, now PhD student [Technische Universität Ilmenau)], 
-  -- Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
+- Mohammad Siavashi, (Received MSc from IUST, now PhD student [KTH Royal Institute of Technology](https://www.kth.se/)),
+  - Master thesis title: Development of a Page Table Aware Scheduler. [Paper]()  
+- Mehran Salmani, (Received MSc from IUST, now PhD student [Technische Universität Ilmenau](), 
+  - Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
 #### What am I currently working on?
 Looking for problems! 
