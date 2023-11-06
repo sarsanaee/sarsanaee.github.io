@@ -8,7 +8,7 @@ I'm a graduate student at QMUL EECS, advised by [Gianni
 Antichi](https://gianniantichi.github.io/) . I'm also working with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
 around computer systems at data centers. Before starting PhD, I was a research
-assistant at NUS advised by Djordje Jevdjic, working on memory management for
+assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
 data center applications. I also spent 3 months studying the feasibility
 of using virtualization to increase the availability of electrical grid
 controllers advised by [Jean-Yves Le
