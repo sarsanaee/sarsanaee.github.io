@@ -54,3 +54,4 @@ Looking for problems!
 Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
 TCP seems to be hampering the innovation.  
 The process of conducting research is slow.  
+People should try to be fair with existing solutions, though it is not possible unless with publishing proper atefacts.
