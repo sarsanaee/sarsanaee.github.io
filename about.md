@@ -51,11 +51,12 @@ Big data analytics - Fall'20 (TA)
 Looking for problems! 
 
 #### Some thoughts
-Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
-TCP seems to be hampering the innovation.  
-The process of conducting research is slow.  
-People should try to be fair with existing solutions, though it is not possible unless with publishing proper artifacts.
+- Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
+- TCP seems to be hampering the innovation.  
+- The process of conducting research is slow.  
+- People should try to be fair with existing solutions, though it is not possible unless with publishing proper artifacts.
+- One way to become more interesting today, add **AI/ML** before any noun. Start from **AL/ML Systems** :) 21/12/2023  
 
 #### Useful Graduate School Stuff
-[How to write a good Computer Systems Dissertation]({{ site.baseurl }}/pd)?
+- [How to write a good Computer Systems Dissertation]({{ site.baseurl }}/pd)?
 
