@@ -48,7 +48,7 @@ Big data analytics - Fall'20 (TA)
   - Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
 #### What am I currently working on?
-Looking for problems! 
+I am writing up my thesis! 
 
 #### Some thoughts
 - Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
