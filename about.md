@@ -16,8 +16,8 @@ Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL.
 
 I did my undergraduate and master's at IUST in Iran, working with [Mohsen
  Sharifi](https://webpages.iust.ac.ir/msharifi/). I think his lab is one of the 
-best places in Iran to get to know about systems research, and learn to see 
-world from Computer Systems lens.  
+best places in Iran to get to know about systems research and learn to see 
+the world from Computer Systems lens.  
 
 ### Selected Publications
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
