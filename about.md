@@ -60,4 +60,5 @@ I am currently collaborating with [Anuj Kalia](https://anujkalia.com/) and [Ilia
 #### Useful Graduate School Stuff
 - [How to write a good Computer Systems Dissertation]({{ site.baseurl }}/pd)?
 - [Avoid fixed schedule with many meetings](https://open.substack.com/pub/sanaee/p/avoid-fixed-schedule-with-many-meetings?r=gk9i&utm_campaign=post&utm_medium=web&showWelcome=true)
+- [My take on NUS and Nanyang Universities](https://open.substack.com/pub/sanaee/p/my-take-on-nus-and-nanyang-universities?r=gk9i&utm_campaign=post&utm_medium=web&showWelcome=true)
 
