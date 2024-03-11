@@ -7,17 +7,14 @@ permalink: /
 I'm a Teaching Fellow and PhD Student (submitting thesis) at QMUL EECS, advised by [Gianni
 Antichi](https://gianniantichi.github.io/) . I'm also working with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
-around computer systems at data centers. Before starting PhD, I was a research
-assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
+around computer systems at data centers. Before starting PhD, I was a Research
+Associate at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
 data center applications. I also spent 3 months studying the feasibility
 of using virtualization to increase the availability of electrical grid
 controllers advised by [Jean-Yves Le
 Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL.  
 
-I did my undergraduate and master's at IUST in Iran, working with [Mohsen
- Sharifi](https://webpages.iust.ac.ir/msharifi/). I think his lab is one of the 
-best places in Iran to get to know about systems research and learn to see 
-the world from Computer Systems lens.  
+I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a Research Associate. I think his lab is one of the best places in Iran to get to know about systems research and learn to see the world from Computer Systems lens.  
 
 ### Selected Publications
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
