@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I'm a graduate student (4th year) at QMUL EECS, advised by [Gianni
+I'm a Teaching Fellow and PhD Student (submitting thesis) at QMUL EECS, advised by [Gianni
 Antichi](https://gianniantichi.github.io/) . I'm also working with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
 around computer systems at data centers. Before starting PhD, I was a research
