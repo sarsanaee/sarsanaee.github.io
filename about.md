@@ -16,7 +16,7 @@ Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL.
 
 I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a Research Associate. I think his lab is one of the best places in Iran to get to know about systems research and learn to see the world from Computer Systems lens.  
 
-### Selected Publications
+### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
 **Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens  
 USENIX NSDI 22, [Paper](https://www.usenix.org/system/files/nsdi22-paper-sanaee.pdf), [Talk](https://youtu.be/ovUH3Yjl37o), [Code](https://youtu.be/ovUH3Yjl37o)  
@@ -25,10 +25,10 @@ Morpheus: Domain Specific Run Time Optimization for Software Data Planes
 Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi  
 ACM ASPLOS 22, [Paper](https://dl.acm.org/doi/10.1145/3503222.3507769), [Talk](https://youtu.be/PDUVUv39CUQ), [Code](https://github.com/Morpheus-compiler/Morpheus)  
 
-### Other Publications
 Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving  
 M. Salmani, et al.  
-MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o)  
+MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o) 
+
 ### Mini-Teaching
 Distributed systems - Spring'22 (TA)  
 Distributed systems - Spring'21 (TA)  
