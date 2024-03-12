@@ -29,10 +29,15 @@ Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving
 M. Salmani, et al.  
 MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o) 
 
-### Mini-Teaching
-Distributed systems - Spring'22 (TA)  
-Distributed systems - Spring'21 (TA)  
-Big data analytics - Fall'20 (TA)
+### Teaching
+Postgraduate Supervision Final Project (10 students) -- Spring '24 and Summer '24 
+Compilers - Spring '24 (Teaching Fellow)
+Distributed Systems - Spring '24 (Teaching Fellow)
+Undergraduate Supervision Final Year Project (8 students) - Fall '23 and Spring '24
+Big data analytics - Fall '23 (Demonstrator)
+Distributed systems - Spring'22 (Demonstrator)  
+Distributed systems - Spring'21 (Demonstrator)  
+Big data analytics - Fall'20 (Demonstrator)
 
 ### Service
 [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
