@@ -17,13 +17,20 @@ Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL.
 I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a Research Associate. I think his lab is one of the best places in Iran to get to know about systems research and learn to see the world from Computer Systems lens.  
 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
+Scalable and Effective Page-table and TLB management on NUMA Systems  
+B. Gao, Q. Kang, H. Tee, K. Chu, **A. Sanaee**, D. Jevdjic  
+USENIX ATC 24, [Paper](tbc), [Talk](tbc), [Code](tbc)  
+
+
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
-**Alireza Sanaee**, Farbod Shahinfar, Gianni Antichi, Brent Stephens  
+**A. Sanaee**, F. Shahinfar, G. Antichi, B. Stephens  
 USENIX NSDI 22, [Paper](https://www.usenix.org/system/files/nsdi22-paper-sanaee.pdf), [Talk](https://youtu.be/ovUH3Yjl37o), [Code](https://youtu.be/ovUH3Yjl37o)  
 
-Morpheus: Domain Specific Run Time Optimization for Software Data Planes  
-Sebastiano Miano, **Alireza Sanaee**, Gabor Retravi, Gianni Antichi  
+Morpheus: Domain-Specific Run Time Optimization for Software Data Planes  
+S. Miano, **A. Sanaee**, G. Retravi, G. Antichi  
 ACM ASPLOS 22, [Paper](https://dl.acm.org/doi/10.1145/3503222.3507769), [Talk](https://youtu.be/PDUVUv39CUQ), [Code](https://github.com/Morpheus-compiler/Morpheus)  
+
+### Workshops
 
 Reconciling High Accuracy, Cost-Efficiency, and Low Latency of Inference Serving  
 M. Salmani, et al.  
