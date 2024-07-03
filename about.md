@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I am currently a Linux Kernel Engineer at Huawei Research Cambridge. 
-Also, I am a visiting researchers at Cambridge University working at Systems Research Group.
+Also, I am a visiting researcher at Cambridge University working at Systems Research Group.
 I have recently submitted my Ph.D. thesis, advised by [Gianni
 Antichi](https://gianniantichi.github.io/). I worked with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
