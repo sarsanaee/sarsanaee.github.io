@@ -4,8 +4,10 @@ title: About
 permalink: /
 ---
 
-I'm a Teaching Fellow and PhD Student (submitting thesis) at QMUL EECS, advised by [Gianni
-Antichi](https://gianniantichi.github.io/) . I'm also working with [Brent
+I am currently a Linux kernel engineer at Huawei Research at Cambridge. 
+Also, I am a visiting researchers at Cambridge University working at Systems Research Group.
+I have recently submitted my Ph.D. thesis, advised by [Gianni
+Antichi](https://gianniantichi.github.io/). I worked with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
 around computer systems at data centers. Before starting PhD, I was a Research
 Associate at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
