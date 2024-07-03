@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am currently a Linux kernel engineer at Huawei Research at Cambridge. 
+I am currently a Linux kernel engineer at Huawei Research Cambridge. 
 Also, I am a visiting researchers at Cambridge University working at Systems Research Group.
 I have recently submitted my Ph.D. thesis, advised by [Gianni
 Antichi](https://gianniantichi.github.io/). I worked with [Brent
