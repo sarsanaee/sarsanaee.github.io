@@ -5,24 +5,21 @@ permalink: /
 ---
 
 I am currently a Linux Kernel Engineer at Huawei Research Cambridge. 
-Also, I am a visiting researcher at Cambridge University working at Systems Research Group.
-I have recently submitted my Ph.D. thesis, advised by [Gianni
-Antichi](https://gianniantichi.github.io/). I worked with [Brent
+I am also a visiting researcher at Cambridge University, working at Systems Research Group.
+I am advised by [Gianni Antichi](https://gianniantichi.github.io/) and worked with [Brent
 Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
 around computer systems at data centers. Before starting PhD, I was a Research
-Associate at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
+Assitant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
 data center applications. I also spent 3 months studying the feasibility
 of using virtualization to increase the availability of electrical grid
-controllers advised by [Jean-Yves Le
-Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL.  
+controllers advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful  
 
-I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a Research Associate. I think his lab is one of the best places in Iran to get to know about systems research and learn to see the world from Computer Systems lens.  
+I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a researcher at his laboratory. His lab is one of the best places in Iran to learn about systems research and see the world from a computer systems lens.
 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
 Scalable and Effective Page-table and TLB management on NUMA Systems  
 B. Gao, Q. Kang, H. Tee, K. Chu, **A. Sanaee**, D. Jevdjic  
 USENIX ATC 24, [Paper](tbc), [Talk](tbc), [Code](tbc)  
-
 
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
 **A. Sanaee**, F. Shahinfar, G. Antichi, B. Stephens  
@@ -59,7 +56,7 @@ Big data analytics - Fall'20 (Demonstrator)
   - Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
 #### What am I currently working on?
-I am currently collaborating with [Anuj Kalia](https://anujkalia.com/) and [Ilias Marinos](https://www.marinos.io/) on userspace networking stacks for Cloud. 
+Not sure exactly.
 
 #### Some thoughts
 - Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
@@ -73,4 +70,5 @@ I am currently collaborating with [Anuj Kalia](https://anujkalia.com/) and [Ilia
 - [Avoid fixed schedule with many meetings](https://open.substack.com/pub/sanaee/p/avoid-fixed-schedule-with-many-meetings?r=gk9i&utm_campaign=post&utm_medium=web&showWelcome=true)
 - [My take on NUS and Nanyang Universities](https://open.substack.com/pub/sanaee/p/my-take-on-nus-and-nanyang-universities?r=gk9i&utm_campaign=post&utm_medium=web&showWelcome=true)
 - [Graduate school advise](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
+- [Be stupid](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
 
