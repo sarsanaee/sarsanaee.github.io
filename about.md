@@ -36,17 +36,18 @@ M. Salmani, et al.
 MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.3592578), [Talk](https://www.youtube.com/watch?v=sVbLuNO-25o) 
 
 ### Teaching
-Postgraduate Supervision Final Project (10 students) -- Spring '24 and Summer '24  
-Compilers - Spring '24 (Teaching Fellow)  
-Distributed Systems - Spring '24 (Teaching Fellow)  
-Undergraduate Supervision Final Year Project (8 students) - Fall '23 and Spring '24  
-Big data analytics - Fall '23 (Demonstrator)  
-Distributed systems - Spring'22 (Demonstrator)  
-Distributed systems - Spring'21 (Demonstrator)  
-Big data analytics - Fall'20 (Demonstrator)
+- Undergraduate and Postgraduate Supervision Final Project (20 students) -- Fall '24 and Summer '25    
+- Undergraduate and Postgraduate Supervision Final Project (10 students) -- Fall '23 and Summer '24
+- Compilers - Spring '24 (Teaching Fellow)
+- Distributed Systems - Spring '24 (Teaching Fellow)
+- Undergraduate Supervision Final Year Project (8 students) - Fall '23 and Spring '24
+- Big data analytics - Fall '23 (Demonstrator)
+- Distributed systems - Spring'22 (Demonstrator)
+- Distributed systems - Spring'21 (Demonstrator)
+- Big data analytics - Fall'20 (Demonstrator)
 
 ### Service
-[SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
+- [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
 
 ### Mentees
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (now pursuing Ph.D. at Politecnico di Milano)  
