@@ -4,22 +4,16 @@ title: About
 permalink: /
 ---
 
-I am currently a Linux Kernel Engineer at Huawei Research Cambridge. 
-I am also a visiting researcher at Cambridge University, working at Systems Research Group.
-I am advised by [Gianni Antichi](https://gianniantichi.github.io/) and worked with [Brent
-Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. My interests center
-around computer systems at data centers. Before starting PhD, I was a Research
-Assitant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for
-data center applications. I also spent 3 months studying the feasibility
-of using virtualization to increase the availability of electrical grid
-controllers advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful  
+I am a Linux Kernel Engineer at Huawei Research Cambridge. I am also a visiting researcher at Cambridge University, working at Systems Research Group, that almost does not exist anymore sadly, under Andrew Moore. I got my PhD from Queen Mary University of London advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google. I was more than fortunate to work with Gianni and Brent, they both have their own styles.  
 
-I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a researcher at his laboratory. His lab is one of the best places in Iran to learn about systems research and see the world from a computer systems lens.
+My interests center around computer systems at data centers. Before starting PhD, I was a initally an Intern then Research Assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for data center applications. I also spent 3 months studying the feasibility of using virtualization to increase the availability of electrical grid controllers advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful.
+
+I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a studnet/researcher at his laboratory. His lab is one of the best places in Iran to learn about systems research and see the world from a computer systems lens.
 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
 Scalable and Effective Page-table and TLB management on NUMA Systems  
 B. Gao, Q. Kang, H. Tee, K. Chu, **A. Sanaee**, D. Jevdjic  
-USENIX ATC 24, [Paper](tbc), [Talk](tbc), [Code](tbc), [Podcast]()  
+USENIX ATC 24, [Paper](https://www.usenix.org/conference/atc24/presentation/gao-bin-scalable), [Talk](https://youtu.be/SpS0VrDa8nc), [Podcast]()  
 
 Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem  
 **A. Sanaee**, F. Shahinfar, G. Antichi, B. Stephens  
