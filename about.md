@@ -66,4 +66,6 @@ Not sure exactly.
 - [My take on NUS and Nanyang Universities](https://open.substack.com/pub/sanaee/p/my-take-on-nus-and-nanyang-universities?r=gk9i&utm_campaign=post&utm_medium=web&showWelcome=true)
 - [Graduate school advise](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
 - [Be stupid](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+- [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
+
 
