@@ -71,4 +71,9 @@ Not sure exactly.
 #### Linux kernel stuff
 -  [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 
+#### Random Stuff
+- [Try rehab, but soon you'll know you should have taken shoulder surgery at t=0!](https://youtu.be/2nA3mtSrWXI?si=WD42KsQHBvbA6kv2)
+- [Shoulder Labral Repair](https://youtu.be/pQCYwrs9dvI?si=oxZwASBb7U0hCHSn)
+
+
 
