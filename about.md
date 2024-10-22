@@ -74,6 +74,7 @@ Not sure exactly.
 #### Random Stuff
 - [Try rehab, but soon you'll know you should have taken shoulder surgery at t=0!](https://youtu.be/2nA3mtSrWXI?si=WD42KsQHBvbA6kv2)
 - [Shoulder Labral Repair](https://youtu.be/pQCYwrs9dvI?si=oxZwASBb7U0hCHSn)
+- [Share Your Arm Dislocation or Rotator Cuff Tear Experience](https://forms.gle/jbRvoMD1a8SerPkRA)
 
 
 
