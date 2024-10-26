@@ -8,7 +8,7 @@ I am a Linux Kernel Engineer at Huawei Research Cambridge. I am also a visiting 
 
 My interests center around computer systems at data centers. Before starting PhD, I was initially an Intern and then a Research Assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for data center applications. I also spent three months studying the feasibility of using virtualization to increase the availability of electrical grid controllers, advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful.
 
-I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a student at his laboratory. His lab is one of the best places in Iran to learn about systems research and see the world from a computer systems lens.
+I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a student at his laboratory.
 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
 Scalable and Effective Page-table and TLB management on NUMA Systems  
