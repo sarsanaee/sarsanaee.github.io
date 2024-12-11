@@ -50,9 +50,6 @@ MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.359
 - Mehran Salmani (Received MSc from IUST, now PhD student [Technische Universität Ilmenau](), 
   - Master thesis title: A Mechanism for Auto-Configuration of ML Inference Services.  
 
-#### What am I currently working on?
-Not sure exactly.
-
 #### Some thoughts
 - Hosts can get congested too, [here for more]({{ site.baseurl }}/hcongestion)  
 - TCP seems to be hampering the innovation.  
