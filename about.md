@@ -42,6 +42,7 @@ MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.359
 
 ### Service
 - [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
+- [2nd Workshop on eBPF and Kernel Extensions](https://conferences.sigcomm.org/sigcomm/2024/workshop/ebpf/), Programe Committee.
 
 ### Mentees
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) (now pursuing Ph.D. at Politecnico di Milano)  
