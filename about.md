@@ -11,6 +11,10 @@ My interests center around computer systems at data centers. Before starting PhD
 I did my undergraduate and master's at IUST in Iran, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a student at his laboratory.
 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
+IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency  
+S. Ghafouri, K. Razavi, M.Salmani, **A. Sanaee**, T. Botran, L. Wang, J. Doyle, P. Jamshidi  
+ICPE 25
+
 Scalable and Effective Page-table and TLB management on NUMA Systems  
 B. Gao, Q. Kang, H. Tee, K. Chu, **A. Sanaee**, D. Jevdjic  
 USENIX ATC 24, [Paper](https://www.usenix.org/conference/atc24/presentation/gao-bin-scalable), [Talk](https://youtu.be/SpS0VrDa8nc), [Podcast]()  
