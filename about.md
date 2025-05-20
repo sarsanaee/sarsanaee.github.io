@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a Linux Kernel Engineer at Huawei Research Cambridge. I am also a visiting researcher at Cambridge University, working under Andrew Moore's team. I got my PhD from Queen Mary University of London, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google, [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with Gianni and Brent; they both have their own styles.  
+I am a Linux Kernel Engineer at Huawei Research Cambridge. I got my PhD from Queen Mary University of London, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google, [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with Gianni and Brent; they both have their own styles.  
 
 My interests center around computer systems at data centers. Before starting PhD, I was initially an Intern and then a Research Assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for data center applications. I also spent three months studying the feasibility of using virtualization to increase the availability of electrical grid controllers, advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful.
 
