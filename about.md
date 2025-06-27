@@ -4,7 +4,9 @@ title: About
 permalink: /
 ---
 
-I am a Linux Kernel Engineer at Huawei Research Cambridge. I got my PhD from Queen Mary University of London, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google, [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with Gianni and Brent; they both have their own styles.  
+I am a Linux Kernel Engineer at Huawei Research Cambridge. Thesedays I am interested in CXL technologies in QEMU and Kernel.
+
+I got my PhD from Queen Mary University of London, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google, [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with Gianni and Brent; they both have their own styles.  
 
 My interests center around computer systems at data centers. Before starting PhD, I was initially an Intern and then a Research Assistant at NUS advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on memory management for data center applications. I also spent three months studying the feasibility of using virtualization to increase the availability of electrical grid controllers, advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec) at EPFL. Btw, Lausanne is beautiful.
 
@@ -38,11 +40,6 @@ MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.359
 - Undergraduate and Postgraduate Supervision Final Project (10 students) -- Fall '23 and Summer '24
 - Compilers - Spring '24 (Teaching Fellow)
 - Distributed Systems - Spring '24 (Teaching Fellow)
-- Undergraduate Supervision Final Year Project (8 students) - Fall '23 and Spring '24
-- Big data analytics - Fall '23 (Demonstrator)
-- Distributed systems - Spring'22 (Demonstrator)
-- Distributed systems - Spring'21 (Demonstrator)
-- Big data analytics - Fall'20 (Demonstrator)
 
 ### Service
 - [SOSP'19](https://sysartifacts.github.io), AEC Member (Artifact Evaluation Committee)
