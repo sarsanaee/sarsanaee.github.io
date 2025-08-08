@@ -77,7 +77,7 @@ MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.359
 - [Share Your Arm Dislocation or Rotator Cuff Tear Experience](https://forms.gle/jbRvoMD1a8SerPkRA)
 - [No hello](https://nohello.net/en/)
 
-#### Company interview rejections over 7 years
+#### Company interview rejections since 2018
 - Microsoft -- R1.
 - NVIVIA    -- R2.
 - Meta      -- 2x R1.
