@@ -78,7 +78,7 @@ MLSys workshop @EuroSys23 [Paper](https://dl.acm.org/doi/abs/10.1145/3578356.359
 - [No hello](https://nohello.net/en/)
 
 #### Company interview rejections since 2018
-- Microsoft -- R1.
+- Microsoft -- 1xR1, 1xR2.
 - NVIDIA    -- R2.
 - Meta      -- 2x R1.
 - Google    -- R1.
