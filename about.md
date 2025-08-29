@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a Linux Kernel Engineer at Huawei Research Cambridge. Thesedays I am interested in CXL technologies in QEMU and Kernel.
+I am a Systems Architect at Huawei Research Cambridge. Thesedays I am interested in CXL technologies in QEMU and Kernel.
 
 I got my PhD from Queen Mary University of London, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) at Utah/Google, [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with Gianni and Brent; they both have their own styles.  
 
