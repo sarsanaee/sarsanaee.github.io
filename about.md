@@ -4,17 +4,13 @@ title: About
 permalink: /
 ---
 
-I am a **Systems Architect at Huawei Research Cambridge**.  
-These days, I am mostly thinking about **CXL technologies across QEMU and the Linux Kernel**, and how memory systems should evolve for modern data centers.
+I am a **Systems Architect at Huawei Research Cambridge**.  These days, I am mostly thinking about **CXL technologies across QEMU and the Linux Kernel**, and how memory systems should evolve for modern data centers. My research interests broadly center around **computer systems for data centers**.
 
 I enjoy technical discussions, early-stage ideas, and projects that sit between research and real systems. If you are working on something related—or just want to exchange thoughts—I am usually happy to chat.
 
 I received my **PhD from Queen Mary University of London**, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) (Utah / Google), see my [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with both Gianni and Brent; beyond their technical depth, they each have distinct styles that strongly shaped how I think about systems and research.
 
-My interests broadly center around **computer systems for data centers**.
-
-Before starting my PhD, I was initially an **Intern**, and later a **Research Assistant at NUS**, advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on **memory management for data-center applications**. I also spent three months at **EPFL**, studying the feasibility of using **virtualization to improve the availability of electrical grid controllers**, advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec).  
-Btw, Lausanne *is* beautiful.
+Before starting my PhD, I was initially an **Intern**, and later a **Research Assistant at NUS**, advised by [Djordje Jevdjic](https://www.comp.nus.edu.sg/cs/people/jevdjic/), working on **memory management for data-center applications**. I also spent three months at **EPFL**, studying the feasibility of using **virtualization to improve the availability of electrical grid controllers**, advised by [Jean-Yves Le Boudec](https://people.epfl.ch/jean-yves.leboudec).  Btw, Lausanne *is* beautiful, make sure you pay a visit.
 
 I completed my **undergraduate and master’s studies at IUST (Iran)**, working with [Mohsen Sharifi](https://webpages.iust.ac.ir/msharifi/), where I spent two years as a student in his laboratory.
 
