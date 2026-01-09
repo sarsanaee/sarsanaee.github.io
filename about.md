@@ -19,7 +19,7 @@ I completed my **undergraduate and master’s studies at IUST (Iran)**, working 
 ### Selected Publications ([all pubs](https://scholar.google.com/citations?user=SKU_VGgAAAAJ&hl=en))
 
 **Enabling Fast Networking in the Public Cloud**  
-**A. Sanaee**, V. Jabrayilov, I. Marinos, F. Shahinfar, D. Saxena, G. Antichi, and K. Kaffes
+**A. Sanaee**, V. Jabrayilov, I. Marinos, F. Shahinfar, D. Saxena, G. Antichi, and K. Kaffes  
 ACM ASPLOS 26, [Code](https://github.com/microsoft/machnet) [Paper -- soon]()
 
 **IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency**  
