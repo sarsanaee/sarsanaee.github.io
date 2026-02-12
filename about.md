@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a **Systems Architect at Huawei Research Cambridge**.  These days, I am mostly thinking about **CXL technologies across QEMU and the Linux Kernel**, and how memory systems should evolve for modern data centers. My research interests broadly center around **computer systems for data centers**.
+I am a Systems Architect at Huawei Research Cambridge. Also, I am visiting Andrew Moore at University of Cambridge.  These days, I am mostly thinking about CXL technologies across QEMU and the Linux Kernel, and how memory systems should evolve for modern data centers. My research interests broadly center around computer systems for data centers.
 
 I enjoy technical discussions, early-stage ideas, and projects that sit between research and real systems. If you are working on something related—or just want to exchange thoughts—I am usually happy to chat.
 
