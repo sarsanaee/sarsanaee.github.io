@@ -61,6 +61,8 @@ I enjoy mentoring students and working closely on open-ended projects.
 
 ### Service
 
+- [Systor '26](https://www.systor.org/2026/)
+- [SOSP '26 Posters](https://sigops.org/s/conferences/sosp/2026/cfpo.html)
 - [SOSP ’19](https://sysartifacts.github.io) — Artifact Evaluation Committee  
 - [2nd Workshop on eBPF and Kernel Extensions](https://conferences.sigcomm.org/sigcomm/2024/workshop/ebpf/) — Program Committee
 
