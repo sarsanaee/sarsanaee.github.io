@@ -63,12 +63,12 @@ I enjoy mentoring students and working closely on open-ended projects.
 
 - [Systor '26](https://www.systor.org/2026/)
 - [SOSP '26 Posters](https://sigops.org/s/conferences/sosp/2026/cfpo.html)
-- [SOSP ’19](https://sysartifacts.github.io) — Artifact Evaluation Committee  
-- [2nd Workshop on eBPF and Kernel Extensions](https://conferences.sigcomm.org/sigcomm/2024/workshop/ebpf/) — Program Committee
+- [SOSP ’19](https://sysartifacts.github.io)
+- [2nd Workshop on eBPF and Kernel Extensions](https://conferences.sigcomm.org/sigcomm/2024/workshop/ebpf/)
 
 ---
 
-### Mentees
+### Previous Mentees
 
 - [Farbod Shahinfar](https://fshahinfar1.github.io/) — now PhD student at Politecnico di Milano  
 - Mohammad Siavashi — MSc from IUST, now PhD student at [KTH Royal Institute of Technology](https://www.kth.se/)
