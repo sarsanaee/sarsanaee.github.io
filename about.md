@@ -4,7 +4,9 @@ title: About
 permalink: /
 ---
 
-I am a System Softare Architect! Currently, I am visiting Prof. Andrew Moore at University of Cambridge. I am always looking for interesting and challenging problems! I spent about 2 years at Huawei thinking about CXL technologies across QEMU and the Linux Kernel, and how memory systems should evolve for modern data centers. My research interests broadly center around computer systems for data centers.
+I am not exactly sure what I am but I guess I am comfortable looking at different problems; that said I've spent a long time designing systems software! I am always looking for interesting and challenging problems! You can find me at Computer Lab where I am visiting Prof. Andrew Moore at University of Cambridge. 
+
+I spent about 2 years at Huawei thinking about CXL technologies across QEMU and the Linux Kernel, and how memory systems should evolve for modern data centers. My research interests broadly center around computer systems for data centers.
 
 I enjoy technical discussions, early-stage ideas, and projects that sit between research and real systems. If you are working on something related—or just want to exchange thoughts—I am usually happy to chat.
 
