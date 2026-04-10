@@ -22,7 +22,7 @@ I completed my **undergraduate and master’s studies at IUST (Iran)**, working 
 
 **Enabling Fast Networking in the Public Cloud**  
 **A. Sanaee**, V. Jabrayilov, I. Marinos, F. Shahinfar, D. Saxena, G. Antichi, and K. Kaffes  
-ACM ASPLOS 26, [Code](https://github.com/microsoft/machnet) [Paper -- soon]()
+ACM ASPLOS 26, [Code](https://github.com/microsoft/machnet) [Paper](https://dl.acm.org/doi/abs/10.1145/3779212.3790158)
 
 **IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency**  
 S. Ghafouri, K. Razavi, M. Salmani, **A. Sanaee**, T. Botran, L. Wang, J. Doyle, P. Jamshidi  
