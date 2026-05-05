@@ -4,11 +4,13 @@ title: About
 permalink: /
 ---
 
-I am not exactly sure what I am but I guess I am comfortable looking at different problems; that said I've spent a long time designing systems software! I am always looking for interesting and challenging problems! You can find me at Computer Lab where I am visiting Prof. Andrew Moore at University of Cambridge. 
+I build high performance systems for modern data centers, with a focus on AI and ML workloads and their efficiency at scale. I am comfortable moving across different problems, but my core experience is in systems software. You can find me at the Computer Laboratory, where I am visiting Andrew Moore at the University of Cambridge.
 
-I spent about 2 years at Huawei thinking about CXL technologies across QEMU and the Linux Kernel, and how memory systems should evolve for modern data centers. My research interests broadly center around computer systems for data centers.
+I spent about two years at Huawei working on Compute Express Link (CXL) across QEMU and the Linux kernel, exploring how memory systems should evolve for modern data centers. More recently, I have been focusing on AI and ML workloads and the systems challenges they introduce. I am interested in optimizing these workloads at scale across networking, memory, and runtime layers, with a growing emphasis on energy efficiency alongside performance.
 
-I enjoy technical discussions, early-stage ideas, and projects that sit between research and real systems. If you are working on something related—or just want to exchange thoughts—I am usually happy to chat.
+My interests broadly center on computer systems for data centers, especially where real systems meet emerging workloads. I enjoy technical discussions and early stage ideas, and I am always open to exchanging thoughts.
+
+---
 
 I received my **PhD from Queen Mary University of London**, advised by [Gianni Antichi](https://gianniantichi.github.io/) and [Brent Stephens](https://www.cs.utah.edu/~brent/) (Utah / Google), see my [PhD dissertation](https://qmro.qmul.ac.uk/xmlui/handle/123456789/102618). I was more than fortunate to work with both Gianni and Brent; beyond their technical depth, they each have distinct styles that strongly shaped how I think about systems and research.
 
