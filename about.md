@@ -126,7 +126,7 @@ Occasional notes, opinions, and unfinished ideas:
 
 Listed mostly as a reminder that this is normal:
 
-- Microsoft — 1× R1, 1× R2  
+- Microsoft — 1× R1, 1× R2, 1x R4
 - NVIDIA — R2  
 - Meta — 2× R1  
 - Google — R1  
