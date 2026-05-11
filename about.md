@@ -124,7 +124,9 @@ Occasional notes, opinions, and unfinished ideas:
 
 #### Company interview rejections (since 2018)
 
-Listed mostly as a reminder that this is normal:
+Listed mostly as a reminder that this is normal, espcially when go for ambitious roles:
+
+> Yx R(X) means that I didn't make it Y times it in the round X of an interview process.
 
 - Microsoft — 1× R1, 1× R2, 1x R4
 - NVIDIA — R2  
